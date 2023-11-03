@@ -9,11 +9,11 @@
 
 ## Recursos Principais
 
-`Slides Carrossel`: O site inclui uma seção de slides em formato de carrossel, permitindo a exibição de várias imagens ou conteúdos de destaque de forma interativa.
+- `Slides Carrossel`: O site inclui uma seção de slides em formato de carrossel, permitindo a exibição de várias imagens ou conteúdos de destaque de forma interativa.
 
 - `Efeitos de Parallax`: Os efeitos de parallax foram incorporados para adicionar profundidade e dinâmica às páginas, tornando a experiência de navegação mais envolvente.
 
-`Design Responsivo`: O site é completamente responsivo e se adapta a diferentes dispositivos e tamanhos de tela, garantindo uma experiência consistente para os visitantes em dispositivos móveis e desktop.
+- `Design Responsivo`: O site é completamente responsivo e se adapta a diferentes dispositivos e tamanhos de tela, garantindo uma experiência consistente para os visitantes em dispositivos móveis e desktop.
 
 
 ## Como Usar
