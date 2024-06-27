@@ -176,9 +176,10 @@ pre {
 .container>.navbar-header {
 	background: #34495e;
 	color: #bdc3c7;
-
+	/* position: fixed; */
 
 }
+
 .nav-tabs {
 	border-bottom-color: #ecf0f1;
 }
@@ -377,7 +378,7 @@ label {
 	color: #000;
 }
 .navbar-inverse {
-	background-color: rgba(255, 255, 255, .9);
+	background: #34495e;
 	
 	border: none;
 }
