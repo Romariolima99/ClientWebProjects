@@ -172,6 +172,13 @@ pre {
 	padding: 15px 0;
 	margin-bottom: 5px;
 }
+
+.container>.navbar-header {
+	background: #34495e;
+	color: #bdc3c7;
+
+
+}
 .nav-tabs {
 	border-bottom-color: #ecf0f1;
 }
