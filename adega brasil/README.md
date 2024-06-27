@@ -1,29 +1,13 @@
-## Meu Site com Materialize
+## Adega Brasil: Site Institucional com Contato via WhatsApp
 
-- Este é um repositório para o código-fonte do meu site, construído com a ajuda da biblioteca Materialize. O site apresenta um design moderno e responsivo, com slides em forma de carrossel e efeitos de parallax para criar uma experiência visualmente atraente.
+- Este repositório contém o código-fonte do site institucional da Adega Brasil, focado em apresentar informações sobre nossos produtos e serviços, bem como facilitar o contato direto através do WhatsApp para consultas e pedidos.
 
 ## Tecnologias Utilizadas
 - HTML5
-- Materialize
-- JQuery
+- CSS3 (Bootstrap)
+- JavaScript (jQuery)
 
-## Recursos Principais
+# Recursos Principais
+- Apresentação de Produtos: Informações detalhadas sobre nossa variedade de cervejas artesanais, destilados premium, cigarros de marcas reconhecidas e carvão para churrasco.
 
-- `Slides carousel`: O site inclui uma seção de slides em formato de carrossel, permitindo a exibição de várias imagens ou conteúdos de destaque de forma interativa.
-
-- `Efeitos de Parallax`: Os efeitos de parallax foram incorporados para adicionar profundidade e dinâmica às páginas, tornando a experiência de navegação mais envolvente.
-
-- `Design Responsivo`: O site é completamente responsivo e se adapta a diferentes dispositivos e tamanhos de tela, garantindo uma experiência consistente para os visitantes em dispositivos móveis e desktop.
-
-
-## Como Usar
-
-- Clone este repositório em sua máquina local:
-
-```
-git clone https://github.com/Romariolima99/site-materialize
-```
-
-## Veja o Projeto: https://site-materialize-romario.netlify.app/
-
-<img src="https://i.imgur.com/pryINSA.png" alt="GIF" data-canonical-src="https://i.imgur.com/pryINSA.png" style="max-width: 50%;">
+- Botão de WhatsApp: Facilita o contato direto com nossa equipe de vendas através do WhatsApp para consultas sobre produtos e pedidos.
