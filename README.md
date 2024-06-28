@@ -25,7 +25,7 @@ Descrição breve do projeto do Cliente A. Inclui os principais recursos e tecno
 - Bootstrap
 - jQuery
 
-### [Toca da Onça](ClientWebProjects/ClienteB)
+### [Toca da Onça](https://github.com/Romariolima99/ClientWebProjects/tree/main/Toca%20da%20on%C3%A7a)
 Descrição breve do projeto do Cliente B. Inclui os principais recursos e tecnologias usadas.
 
 ## Tecnologias Utilizadas
