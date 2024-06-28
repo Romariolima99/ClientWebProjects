@@ -19,3 +19,14 @@
 - jQuery
 - ScrollReveal: Biblioteca para animações de scroll.
 
+
+## Veja o Projeto: https://client-web-projects.vercel.app/
+
+<img src="https://i.imgur.com/OveOnVX.png" alt="GIF" data-canonical-src="https://i.imgur.com/OveOnVX.png" style="max-width: 50%;">
+
+<img src="https://i.imgur.com/7ueJZdZ.png" alt="GIF" data-canonical-src="https://i.imgur.com/7ueJZdZ.png" style="max-width: 50%;">
+
+<img src="https://i.imgur.com/XRaMdzo.png" alt="GIF" data-canonical-src="https://i.imgur.com/XRaMdzo.png" style="max-width: 50%;">
+
+<img src="https://i.imgur.com/p2PPfEV.png" alt="GIF" data-canonical-src="https://i.imgur.com/p2PPfEV.png" style="max-width: 50%;">
+
