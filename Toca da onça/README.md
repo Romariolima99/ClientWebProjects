@@ -9,3 +9,13 @@
 - ScrollReveal: Biblioteca para animações de scroll.
 
 
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Materialize
+- jQuery
+- ScrollReveal: Biblioteca para animações de scroll.
+
