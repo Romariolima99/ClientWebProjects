@@ -20,7 +20,7 @@
 - ScrollReveal: Biblioteca para animações de scroll.
 
 
-## Veja o Projeto: https://client-web-projects.vercel.app/
+## Veja o Projeto: https://toca-da-onca.netlify.app/
 
 <img src="https://i.imgur.com/OveOnVX.png" alt="GIF" data-canonical-src="https://i.imgur.com/OveOnVX.png" style="max-width: 50%;">
 
