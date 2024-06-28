@@ -24,6 +24,6 @@
 <img src="https://i.imgur.com/DcEmHCZ.png" alt="GIF" data-canonical-src="https://i.imgur.com/DcEmHCZ.png" style="max-width: 50%;">
 
 
-# Design Responsivo:
+## Design Responsivo:
 
 <img src="https://i.imgur.com/o3epBce.png" alt="GIF" data-canonical-src="https://i.imgur.com/o3epBce.png" style="max-width: 50%;">
