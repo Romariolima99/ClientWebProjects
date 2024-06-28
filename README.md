@@ -46,7 +46,7 @@ Este repositório é um portfólio dos meus trabalhos anteriores, portanto, não
 
 ## Contato
 
-Para mais informações ou para discutir um novo projeto, entre em contato comigo através do [seu email] ou visite meu [site pessoal/portfólio].
+Para mais informações ou para discutir um novo projeto, entre em contato comigo através do devromariolima@gmail.com ou visite meu [site pessoal/[portfólio](https://portfolio-romario-lima.vercel.app/)].
 
 ---
 
