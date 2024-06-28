@@ -14,7 +14,7 @@ Cada projeto é organizado da seguinte forma:
 
 ## Projetos
 
-### [Adega Brasil](ClientWebProjects/ClienteA)
+### [Adega Brasil](https://github.com/Romariolima99/ClientWebProjects/tree/main/adega%20brasil)
 Descrição breve do projeto do Cliente A. Inclui os principais recursos e tecnologias usadas.
 
 ## Tecnologias Utilizadas
