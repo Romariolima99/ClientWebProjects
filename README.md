@@ -6,12 +6,6 @@ Bem-vindo ao repositório **ClientWebProjects**! Este repositório armazena uma 
 
 Este repositório contém vários projetos web personalizados, cada um criado para atender às necessidades específicas de diferentes clientes. Cada pasta dentro deste repositório representa um projeto individual e inclui todos os arquivos necessários para o funcionamento do site.
 
-## Estrutura do Repositório
-
-Cada projeto é organizado da seguinte forma:
-
-
-
 ## Projetos
 
 ### [Adega Brasil](https://github.com/Romariolima99/ClientWebProjects/tree/main/adega%20brasil)
