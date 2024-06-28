@@ -20,3 +20,8 @@
 <img src="https://i.imgur.com/Cn9O0cg.png" alt="GIF" data-canonical-src="https://i.imgur.com/Cn9O0cg.png" style="max-width: 50%;">
 
 <img src="https://i.imgur.com/DcEmHCZ.png" alt="GIF" data-canonical-src="https://i.imgur.com/DcEmHCZ.png" style="max-width: 50%;">
+
+
+# Design Responsivo:
+
+<img src="https://i.imgur.com/o3epBce.png" alt="GIF" data-canonical-src="https://i.imgur.com/o3epBce.png" style="max-width: 50%;">
