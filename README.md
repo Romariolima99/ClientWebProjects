@@ -14,10 +14,18 @@ Cada projeto é organizado da seguinte forma:
 
 ## Projetos
 
-### [Cliente A](ClientWebProjects/ClienteA)
+### [Adega Brasil](ClientWebProjects/ClienteA)
 Descrição breve do projeto do Cliente A. Inclui os principais recursos e tecnologias usadas.
 
-### [Cliente B](ClientWebProjects/ClienteB)
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- jQuery
+
+### [Toca da Onça](ClientWebProjects/ClienteB)
 Descrição breve do projeto do Cliente B. Inclui os principais recursos e tecnologias usadas.
 
 ## Tecnologias Utilizadas
@@ -25,7 +33,8 @@ Descrição breve do projeto do Cliente B. Inclui os principais recursos e tecno
 - HTML5
 - CSS3
 - JavaScript
-- [Outras tecnologias e frameworks conforme necessário]
+- Materialize
+- jQuery
 
 ## Como Usar
 
