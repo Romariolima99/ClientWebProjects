@@ -38,6 +38,12 @@ Descrição breve do projeto do Cliente Toca da Onça. Inclui os principais recu
 
 ## Como Usar
 
+- Clone o repositório:
+
+```js
+ git clone https://github.com/Romariolima99/ClientWebProjects.git
+```
+
 Para visualizar um projeto específico, navegue até a pasta do cliente correspondente e abra o arquivo `index.html` em seu navegador.
 
 ## Contribuição
@@ -51,3 +57,5 @@ Para mais informações ou para discutir um novo projeto, entre em contato comig
 ---
 
 Obrigado por visitar o **ClientWebProjects**!
+
+

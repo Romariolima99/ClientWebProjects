@@ -9,7 +9,6 @@
 - ScrollReveal: Biblioteca para animações de scroll.
 
 
-
 ## Tecnologias Utilizadas
 
 - HTML5
