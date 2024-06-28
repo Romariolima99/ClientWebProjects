@@ -4,8 +4,10 @@
 
 ## Tecnologias Utilizadas
 - HTML5
-- CSS3 (Bootstrap)
-- JavaScript (jQuery)
+- CSS3
+- JavaScript
+- Bootstrap
+- jQuery
 
 # Recursos Principais
 - Apresentação de Produtos: Informações detalhadas sobre nossa variedade de cervejas artesanais, destilados premium, cigarros de marcas reconhecidas e carvão para churrasco.
