@@ -15,7 +15,7 @@ Cada projeto é organizado da seguinte forma:
 ## Projetos
 
 ### [Adega Brasil](https://github.com/Romariolima99/ClientWebProjects/tree/main/adega%20brasil)
-Descrição breve do projeto do Cliente A. Inclui os principais recursos e tecnologias usadas.
+Descrição breve do projeto do Cliente Adega Brasil. Inclui os principais recursos e tecnologias usadas.
 
 ## Tecnologias Utilizadas
 
@@ -26,7 +26,7 @@ Descrição breve do projeto do Cliente A. Inclui os principais recursos e tecno
 - jQuery
 
 ### [Toca da Onça](https://github.com/Romariolima99/ClientWebProjects/tree/main/Toca%20da%20on%C3%A7a)
-Descrição breve do projeto do Cliente B. Inclui os principais recursos e tecnologias usadas.
+Descrição breve do projeto do Cliente Toca da Onça. Inclui os principais recursos e tecnologias usadas.
 
 ## Tecnologias Utilizadas
 
